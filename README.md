@@ -38,3 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitha-balijepalli&show_icons=true&locale=en" alt="lalitha-balijepalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitha-balijepalli&" alt="lalitha-balijepalli" /></p>
+    🌟 Contribution Graph – Error Graph of My Life
+<p align="center">
+  <a href="https://github.com/Lalitha-balijepalli">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalitha-balijepalli&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
